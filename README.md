@@ -508,7 +508,7 @@ Some examples:
 
 #### Injecting CSS with `extra_styles`
 
-**Note**: `extra_styles` **MUST NOT** be used on the first button-card of the currend view, else it will be applied to all the cards in all Lovelace. **It is not possible to fix this behaviour.**
+**Note**: `extra_styles` **MUST NOT** be used on the first button-card of the current view, else it will be applied to all the cards in all Lovelace. **It is not possible to fix this behaviour.**
 
 You can inject any CSS style you want using this config option. It is usefull if you want to inject CSS animations for example. This field supports [templates](#javascript-templates).
 
